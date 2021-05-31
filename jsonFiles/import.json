@@ -1,0 +1,10 @@
+[
+	{"id":1, "name":"mobile 1", "price":20.00, "quantity":7},
+	{"id":3, "name":"computer 1", "price":1.00, "quantity":3},
+	{"id":8, "name":"computer 2", "price":1.00, "quantity":3},
+	{"id":9, "name":"computer 3", "price":1.00, "quantity":3},
+	{"id":10, "name":"fashion 1", "price":1.00, "quantity":3},
+	{"id":11, "name":"fashion 2", "price":1.00, "quantity":3},
+	{"id":12, "name":"fashion 3", "price":1.00, "quantity":3},
+	{"id":13, "name":"fashion 4", "price":1.00, "quantity":3}
+]
